@@ -1,0 +1,5 @@
+c:\users\mtmyazilim\documents\visual studConsoleApplication1io 2015\Projects\Robot\Robot\bin\Debug\Robot.exe.config
+c:\users\mtmyazilim\documents\visual studConsoleApplication1io 2015\Projects\Robot\Robot\bin\Debug\Robot.exe
+c:\users\mtmyazilim\documents\visual studConsoleApplication1io 2015\Projects\Robot\Robot\bin\Debug\Robot.pdb
+c:\users\mtmyazilim\documents\visual studConsoleApplication1io 2015\Projects\Robot\Robot\obj\Debug\Robot.exe
+c:\users\mtmyazilim\documents\visual studConsoleApplication1io 2015\Projects\Robot\Robot\obj\Debug\Robot.pdb
